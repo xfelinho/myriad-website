@@ -1,0 +1,230 @@
+{
+  "about": {
+    "history": {
+      "items": [
+        null,
+        null,
+        null,
+        {
+          "text": "Der Mining-Konsens wird erreicht und Myriad gelingt es, den Qubit-Algorithmus durch den Yescrypt-Algorithmus zu ersetzen, um die Dezentralität des Minings zu erhalten. Myriad wurde die erste Kryptowährung, die den Mining-Konsens nutzt, um einen Mining-Algorithmus zu ändern."
+        },
+        {
+          "date": "Oktober 2018",
+          "text": "Longblock wird über MIP 3 implementiert. Eine schrittweise Erhöhung der Blockzeit von 1 bis 8 Minuten unter Verwendung mehrerer Intervalle von Blockzeitanpassungen. Es wird sichergestellt, dass die Coinversorgung und die Emissionsrate gegenüber der Blockzeit nicht beeinflusst werden. Er wird später über das Konsensbit 5 aktiviert."
+        },
+        {
+          "date": "Februar 2019",
+          "text": "Algoswap 2 wird über MIP 4 implementiert. Tausch von Skein auf Argon2d. Der Wechsel wird später per Mining-Konsens (Konsens-Bit 6) aktiviert."
+        },
+        {
+          "date": "März 2020",
+          "text": "Myriad 0.18.1.0 wird mit verbesserter Multi-Wallet-Unterstützung und RISC-V-Unterstützung veröffentlicht. 0.00000001 XMY ist jetzt als Octibit oder Obi definiert."
+        }
+      ]
+    },
+    "specifications": {
+      "title": "Spezifikationen",
+      "distribution": {
+        "title": "Verteilung",
+        "items": [
+          {
+            "title": "Block Time",
+            "value": "1 Minute"
+          },
+          {
+            "title": "Aktuelle Blockbelohnung",
+            "value": "250 XMY"
+          },
+          {
+            "title": "Halving Time",
+            "value": "Alle 96 Wochen (967680 Blöcke)"
+          },
+          {
+            "title": "Gesamter Vorrat an Coins",
+            "value": "Ca. 2 Milliarden XMY"
+          },
+          {
+            "title": "Anpassung der Schwierigkeit",
+            "value": "Jeder Block"
+          },
+          {
+            "title": "Fair",
+            "value": "Myriade ist fair verteilt. Kein Premine und kein ICO."
+          }
+        ]
+      },
+      "features": {
+        "title": "Features",
+        "items": [
+          {
+            "title": "Multi-Algo",
+            "value": "Scrypt, SHA256D, Yescrypt, Argon2d und Myriad-Groestl"
+          },
+          {
+            "title": "Difficulty Separation",
+            "value": "Jeder Algorithmus hat eine separate Schwierigkeit"
+          },
+          {
+            "title": "Schwierigkeitsberechnung",
+            "value": "Geometrischer Durchschnitt"
+          },
+          {
+            "title": "Aufeinanderfolgendes Blocklimit",
+            "value": "6 aufeinanderfolgende Blöcke"
+          },
+          {
+            "title": "AUX-POW",
+            "value": "Scrypt und SHA256D"
+          },
+          {
+            "title": "Coin Control",
+            "value": "Ja"
+          },
+          {
+            "title": "Time Warp Proof",
+            "value": "Ja"
+          }
+        ]
+      }
+    },
+    "community": {
+      "title": "Community-getrieben mit demokratischen Entscheidungen",
+      "body": "<0>Niemand und jeder kontrolliert Myriad. Es ist ein gemeinschaftsgetriebenes Projekt voller Freiwilliger. Für große Änderungen im Core-Mining wird Konsens verwendet. Dieses Prinzip funktioniert aufgrund von Myriads dezentralem Mining.</0><0>Myriad strebt danach, ein Coin für alle zu sein, nicht für eine Elite/ausgewählte Wenige. Myriad ist für die Menschen, denen es am meisten helfen kann. Mit einer wirklich sicheren und dezentralen Münze, gießen wir unseren Fokus und Aufwand in echte Anwendungsfälle, um den Menschen mit dem größten Bedürfnis zu helfen.</0><0>Für große Änderungen im Core wird Mining-Konsens verwendet. Die letzten Mining-Konsens waren 2016 Yescrypt und 2019 Argon2D.</0>",
+      "link": {
+        "title": "Tritt unserer Gemeinschaft bei",
+        "url": "/community"
+      }
+    },
+    "fair": {
+      "title": "Faire Verteilung und faires Mining",
+      "body": "<0>Niemand und jeder kontrolliert Myriad. Es ist ein gemeinschaftsgetriebenes Projekt voller Freiwilliger. Für große Änderungen im Core-Mining wird Konsens verwendet. Dieses Prinzip funktioniert aufgrund von Myriads dezentralem Mining.</0><0>Myriad strebt danach, ein Coin für alle zu sein, nicht für eine Elite/ausgewählte Wenige. Myriad ist für die Menschen, denen es am meisten helfen kann. Mit einer wirklich sicheren und dezentralen Münze, gießen wir unseren Fokus und Aufwand in echte Anwendungsfälle, um den Menschen mit dem größten Bedürfnis zu helfen.</0><0>Für große Änderungen im Core wird Mining-Konsens verwendet. Die letzten Mining-Konsens waren 2016 Yescrypt und 2019 Argon2D.</0>",
+      "link": {
+        "title": "Start Mining",
+        "url": "/mine"
+      }
+    }
+  },
+  "mine": {
+    "title": "How to Mine Myriad",
+    "algoritm": {
+      "title": "1. Wählen Sie einen Algorithmus"
+    },
+    "wallet": {
+      "title": "2. Wählen Sie ein Wallet",
+      "body": "Bewahren Sie Ihre Kryptowährung nicht an einer Börse auf. Sie sollten ein Wallet bereit und eingerichtet haben, um Ihre Coins zu speichern. Diese Wallets unterstützen Myriad..."
+    },
+    "pool": {
+      "title": "3. Treten Sie einem Mining-Pool bei",
+      "body": "Ein Mining-Pool ist das Pooling von Ressourcen durch Miner, die ihre Rechenleistung über ein Netzwerk teilen.",
+      "available_for": "Verfügbare Mining-Pools für"
+    },
+    "ready": "Jetzt können Sie mit dem Mining beginnen!",
+    "links": {
+      "title": "Mehr erreichen mit Myriad"
+    },
+    "need": {
+      "title": "Gibt es einen Bedarf für<1/>Kryptowährungen?",
+      "link": "Lass es uns herausfinden"
+    }
+  },
+  "hold": {
+    "title": "Myriad kaufen und aufbewahren",
+    "buy": {
+      "title": "Myriad kaufen",
+      "body": "Um Ihre ersten Myriad zu erhalten, brauchen Sie eine Börse. Sie können Myriad mit Fiatgeld kaufen oder eine andere Kryptowährung gegen Myriad tauschen."
+    },
+    "wallet": {
+      "title": "Aufbewahrung Ihrer Coins "
+    },
+    "use": {
+      "title": "Verwendung Ihrer Coins",
+      "body": "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna.",
+      "link": "Mehr erfahren"
+    },
+    "links": {
+      "title": "Mach mehr mit Myriad"
+    },
+    "fair": {
+      "title": "Sind nicht alle Kryptowährungen fair verteilt und gemined?",
+      "link": "Lass es uns herausfinden"
+    }
+  },
+  "community": {
+    "title": "Trete der Community bei!",
+    "top": {
+      "title": "Niemand und jeder kontrolliert Myriad.",
+      "body": "Myriad ist ein gemeinschaftsgetriebenes Projekt mit vielen Freiwilligen. Für große Änderungen im Core wird der Mining Konsens verwendet. Dieses Prinzip funktioniert aufgrund von Myriads dezentralem Mining."
+    },
+    "social_media": {
+      "title": "Soziale Medien",
+      "body": "Wir sind auch auf <2> Bitcointalk </ 2> und auf unserem eigenen <6> IRC-Kanal </ 6>"
+    }
+  },
+  "navigation": {
+    "links": {
+      "myriad": "Myriad",
+      "about": "Über",
+      "hold": "Halten",
+      "mine": "Minen",
+      "community": "Community",
+      "updates": "Updates",
+      "download": "Download",
+      "resources": "Resources",
+      "explore": "Entdecke",
+      "blog": "Blog",
+      "instagram": "Instagram",
+      "telegram": "Telegram",
+      "reddit": "Reddit",
+      "twitter": "Twitter",
+      "facebook": "Facebook",
+      "external": "External",
+      "myrstats": "Myrstats",
+      "blockbook": "Blockbook",
+      "chainz": "Chainz",
+      "discord": "Discord",
+      "analytics": "Analytics"
+    }
+  },
+  "components": {
+    "algoritm": {
+      "choose_algoritm": "Wähle einen Algorithmus",
+      "recommended_for": "Empfohlener Algo für",
+      "available_software": "Wähle eine {{name}} Software",
+      "suggested_command_line": "Vorgeschlagene Befehlszeile"
+    },
+    "wallet": {
+      "github": "Weitere Informationen erhalten Sie im Github-Repository",
+      "homepage": "Weitere Informationen finden Sie auf der Website"
+    },
+    "dropdown": {
+      "placeholder": "Wähle..."
+    }
+  },
+  "algoritms": {
+    "SHA256d": {
+      "label": "SHA256d",
+      "purpose": "ASIC-Miner",
+      "description": "Sie können jeden SHA256d-kompatiblen ASIC verwenden"
+    },
+    "scrypt": {
+      "label": "Scrypt",
+      "purpose": "ASIC-Miner",
+      "description": "Sie können jeden Scrypt-kompatiblen ASIC verwenden"
+    },
+    "myr-groestl": {
+      "label": "Myr-Groestl",
+      "purpose": "GPU-Miner",
+      "description": "Wenn Sie mit Myr-Groestl minen, stehen Ihnen einige Optionen zur Verfügung"
+    },
+    "argon2d": {
+      "label": "Argon 2D",
+      "purpose": "CPU-Miner",
+      "description": "Argon2 ist eine Funktion zur Ableitung von Schlüsseln, die im Juli 2015 zum Gewinner der Password Hashing Competition gewählt wurde. Argon2d maximiert den Widerstand gegen GPU-Cracking-Angriffe. Es greift auf das Speicherarray in einer passwortabhängigen Reihenfolge zu, was die Möglichkeit von Time-Memory-Trade-off aka (TMTO)-Angriffen reduziert, aber mögliche Seitenkanalangriffe einführt."
+    },
+    "yescrypt": {
+      "label": "Yescrypt",
+      "purpose": "CPU-Miner",
+      "description": "Yescrypt ist eine passwortbasierte Schlüsselableitungsfunktion. Sie wendet langsame kryptografische Operationen auf ein Kennwort und Salt an und erzeugt so einen Schlüssel, der zur Verschlüsselung oder Speicherung geeignet ist, um das Kennwort in Zukunft zu validieren. Der Yescrypt-Algorithmus basiert auf scrypt von Colin Percival von Tarsnap."
+    }
+  }
+}
